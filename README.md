@@ -8,7 +8,7 @@ In the moment i'm studying ReactJS
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skelclique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skelclique&layout=compact&langs_count=7&theme=dracula"/>
 <div style="display: inline_block">  
   
-#### Languages and tools:
+#### Languages and tools
   <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href="https://www.typescriptlang.org/docs/"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
   <a href="https://reactjs.org/"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
